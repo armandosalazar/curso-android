@@ -3,4 +3,9 @@
     <string name="vistas">Vistas</string>
     <string name="button">Button</string>
     <string name="hello_world">Hello World</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre</string>
+    <string name="guardar">Guardar</string>
+    <string name="ocultar">Ocultar</string>
+    <string name="switch_material">Switch Material</string>
+    <string name="todo">TODO</string>
 </resources>
